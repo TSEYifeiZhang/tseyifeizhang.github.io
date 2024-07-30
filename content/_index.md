@@ -47,8 +47,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
-    design:
-      view: citation
+
   
       # Page type to display. E.g. post, talk, publication...
       page_type: post
