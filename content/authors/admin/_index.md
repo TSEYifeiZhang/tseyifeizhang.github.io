@@ -52,7 +52,7 @@ interests:
   - Corporate Innovation (Patents and Products)
 
 education:
-  - area: PhD in Economics -- 2022
+  - area: PhD in Economics (2022)
     institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master Degree in Economics -- 2016
+  - area: Master Degree in Economics (2016)
     institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Master Degree in Economics -- 2014
+  - area: Master Degree in Economics (2014)
     institution: State University of New York at Stony Brook
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -83,7 +83,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Bachelor Degree in Economics -- 2012
+  - area: Bachelor Degree in Economics (2012)
     institution: 上海师范大学 （Shanghai Normal University）
     date_start: 2016-01-01
     date_end: 2020-12-31
