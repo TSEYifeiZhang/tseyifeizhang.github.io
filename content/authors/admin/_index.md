@@ -46,12 +46,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
+Research Interests:
   - Corporate Finance
   - Climate Finance (Green Finance)
   - Corporate Innovation (Patents and Products)
 
-education:
+Education:
   - area: PhD in Economics (2022)
     institution: Toulouse School of Economics
     date_start: 2016-01-01
