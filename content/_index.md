@@ -41,12 +41,14 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Working Papers and Publications
+      title: Recent Publications
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+    design:
+      view: citation
 
   
       # Page type to display. E.g. post, talk, publication...
