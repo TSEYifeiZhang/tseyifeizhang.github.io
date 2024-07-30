@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-Research Interests:
+Interests:
   - Corporate Finance
   - Climate Finance (Green Finance)
   - Corporate Innovation (Patents and Products)
