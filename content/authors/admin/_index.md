@@ -66,7 +66,7 @@ education:
     date_start: 2015-09-01
     date_end: 2016-07-01
     summary:
-- area: Master in Economics
+  - area: Master in Economics
     institution: State University of New York at Stony Brook
     date_start: 2012-09-01
     date_end: 2014-07-01
