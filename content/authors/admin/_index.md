@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Corporate Finance
+  - Climate Finance (Green Finance)
+  - Corporate Innovation (Patents and Products)
 
 education:
   - area: PhD Artificial Intelligence
