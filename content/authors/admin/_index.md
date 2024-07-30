@@ -46,10 +46,11 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Research Interests:
+  - Corporate Finance
+  - Climate Finance (Green Finance)
+  - Innovation
+  - Industrial Organization
 
 education:
   - area: PhD Artificial Intelligence
