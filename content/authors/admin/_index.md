@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Yifei Zhang (张一飞)
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Yifei
-last_name: Zhang
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,25 +20,25 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor in Finance
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Peking University, HSBC Business School
-    url: https://english.phbs.pku.edu.cn/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:tseyifeizhang@phbs.pku.edu.cn'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com
+    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com
+    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -46,11 +46,10 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-Research Interests:
-  - Corporate Finance
-  - Climate Finance (Green Finance)
-  - Innovation
-  - Industrial Organization
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
@@ -180,6 +179,8 @@ awards:
     icon: datacamp
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+---
 
 ## About Me
-I am an Assistant Professor of Finance at Peking University, HSBC Business School (北京大学汇丰商学院), located in Shenzhen, Guangdong Province, China. I joined the faculty in the summer of 2022, immediately following the completion of my PhD in Economics at the Toulouse School of Economics (TSE).
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
