@@ -1,6 +1,6 @@
 ---
-title: "Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks"
-authors: Ulrich Hege, Kai Li, Yifei Zhang
+title: "The Incident-Driven Green Products"
+authors: Yifei Zhang
 date: "2024-04-07T00:00:00Z"
 doi: ""
 
@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-- name: Wharton School-WRDS Best Empirical Finance Paper Award at WFA (2024)
+- name: New Working Paper
   url: 
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
 url_code: '#'
