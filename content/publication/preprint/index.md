@@ -27,8 +27,8 @@ tags:
 featured: true
 
 links:
-- name: On the program of CICF (2024)
-  url: 
+- name: Working Paper
+  url:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774
 url_code: ''
 url_dataset: ''
