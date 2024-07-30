@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "The Incident-Driven Green Products"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,13 +31,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: '#'
 url_dataset: '#'
-url_poster: '#'
+url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_slides: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
