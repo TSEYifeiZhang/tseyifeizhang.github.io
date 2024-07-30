@@ -76,8 +76,6 @@ education:
     date_start: 2008-09-01
     date_end: 2012-07-01
 
-
-
 ---
 
 ## About Me
