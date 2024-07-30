@@ -1,5 +1,5 @@
 ---
-title: "Working Paper: Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks"
+title: "Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks"
 authors: Ulrich Hege, Kai Li, Yifei Zhang
 date: "2024-04-07T00:00:00Z"
 doi: ""
@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-- name: On the program of 
+- name: Wharton School-WRDS Best Empirical Finance Paper Award at WFA (2024)
   url: 
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
 url_code: '#'
