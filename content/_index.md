@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        1. The Incident-Driven Green Products [SSRN Link(https://papers.ssrn.com/abstract=4908691)]
+        1. The Incident-Driven Green Products [SSRN Link](https://papers.ssrn.com/abstract=4908691)
     
     design:
       columns: '1'
