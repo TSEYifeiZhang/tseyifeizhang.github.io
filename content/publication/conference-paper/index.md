@@ -44,8 +44,8 @@ featured: true
 # - name: On the Program of AFA (2020)
 #   url: 
 
-url_pdf: ''
-url_code: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260'
+url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
