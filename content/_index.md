@@ -39,9 +39,10 @@ sections:
         Please reach out to me for any comments and questions. 😃
 
         * 1. The Incident-Driven Green Products
-        SSRN Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
+            * link:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
 
-        * 2. Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks, with Ulrich Hege (TSE) and Kai Li (Peking U.), , [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691)
+        * 2. Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks, with Ulrich Hege (TSE) and Kai Li (Peking U.)
+           [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691)
             * On the program: WFA (2024) and EFA (2024)
 
 
