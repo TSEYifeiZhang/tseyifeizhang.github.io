@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "10rem"
 
 sections:
   - block: resume-biography-3
@@ -40,7 +40,8 @@ sections:
 
         1. (New) The Incident-Driven Green Products, [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691)
 
-        2. Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks, with Ulrich Hege (TSE) and Kai Li (Peking U.), , [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691) 
+        2. Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks, with Ulrich Hege (TSE) and Kai Li (Peking U.), , [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691)
+On the program: WFA (2024) and EFA (2024)
 
 
       # Page type to display. E.g. post, talk, publication...
