@@ -1,6 +1,6 @@
 ---
-title: "Working Paper: The Incident-Driven Green Products"
-authors: Yifei Zhang
+title: "Climate Patents and Financial Markets"
+authors: Ulrich Hege, Sebastien Pouget, and Yifei Zhang
 date: "2024-04-07T00:00:00Z"
 doi: ""
 
@@ -27,9 +27,9 @@ tags:
 featured: true
 
 links:
-- name: On the program of 
+- name: On the program of CICF (2024)
   url: 
-url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774
 url_code: '#'
 url_dataset: '#'
 url_poster: ''
