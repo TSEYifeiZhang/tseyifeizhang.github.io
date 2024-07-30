@@ -37,35 +37,7 @@ sections:
       text: |-
         Recently, I work on the research topics involving climate-related patents and green products. 
         Please reach out to me for any comments and questions. 😃
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Working Papers & Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Presentations
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News in Climate (Green) Finance
-      subtitle: ''
-      text: ''
+    
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
