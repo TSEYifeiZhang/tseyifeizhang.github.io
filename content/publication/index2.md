@@ -30,8 +30,8 @@ links:
 - name: New Working Paper
   url: 
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
-url_code: '#'
-url_dataset: '#'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
