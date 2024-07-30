@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an assistant professor in finance at Peking University, HSBC Business School (北京大学汇丰商学院), located in Shenzhen, Guangdong Province, China. I joined the school in the summer of 2022, right after I obtained my PhD in economics at Toulouse School of Economics (TSE).
