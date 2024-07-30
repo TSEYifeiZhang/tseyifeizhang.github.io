@@ -1,6 +1,5 @@
 ---
-title: "The Incident-Driven Green Products"
-subtitle: "The Incident-Driven Green Products"
+title: "Working Paper: The Incident-Driven Green Products"
 authors: Yifei Zhang
 date: "2024-04-07T00:00:00Z"
 doi: ""
