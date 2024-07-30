@@ -6,10 +6,10 @@
 main:
   - name: Bio
     url: /
-    weight: 30
+    weight: 50
   - name: Research
     url: /#papers
-    weight: 30
+    weight: 50
   - name: Teaching
     url: teaching/
-    weight: 30
+    weight: 50
