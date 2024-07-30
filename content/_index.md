@@ -37,7 +37,8 @@ sections:
       text: |-
         Recently, I work on the research topics involving climate-related patents and green products. 
         Please reach out to me for any comments and questions. 😃
-
+    design:
+      columns: '1'
 - block: collection
     content:
       title: Recent Publications
