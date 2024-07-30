@@ -38,21 +38,16 @@ sections:
         Recently, I work on the research topics involving climate-related patents and green products. 
         Please reach out to me for any comments and questions. 😃
 
-        * The Incident-Driven Green Products
-            * link:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
-
-        * Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks, with Ulrich Hege (TSE) and Kai Li (Peking U.)
-            * link:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447
-            * On the program: WFA (2024) and EFA (2024)
-            * Wharton School - WRDS Best Empirical Finance Paper at WFA 2024
-
-        * Climate Patents and Financial Markets, with Ulrich Hege (TSE) and Sebastien Pouget (TSE)
-            * link:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774
-            * On the program: CICF (2024)
-
-        * Corporate Venture Capital and Firm Scope -- Fortcoming at Journal of Financial and Quantitave Analyses (JFQA)
-            * link:  
-            * On the program: AFA (2022) and EFA (2022)
+- block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 
 
       # Page type to display. E.g. post, talk, publication...
