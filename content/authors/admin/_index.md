@@ -52,7 +52,7 @@ interests:
   - Corporate Innovation (Patents and Products)
 
 education:
-  - area: PhD in Economics
+  - area: PhD in Economics -- 2022
     institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Master Degree in Economics
+  - area: Master Degree in Economics -- 2016
     institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -72,8 +72,19 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: Master Degree in Economics
+  - area: Master Degree in Economics -- 2014
     institution: State University of New York at Stony Brook
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Bachelor Degree in Economics -- 2012
+    institution: 上海师范大学 （Shanghai Normal University）
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +194,4 @@ awards:
 
 ## About Me
 
-I am an assistant professor in finance at Peking University, HSBC Business School (北京大学汇丰商学院), located in Shenzhen, Guangdong Province, China. I joined the school in the summer of 2022, right after I obtained my PhD in economics at Toulouse School of Economics (TSE).
+I am an assistant professor in finance at Peking University, HSBC Business School (北京大学汇丰商学院), located in Shenzhen (深圳), Guangdong Province, China. I joined the school in the summer of 2022, right after I obtained my PhD in economics at Toulouse School of Economics (TSE).
