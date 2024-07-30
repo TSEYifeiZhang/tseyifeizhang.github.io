@@ -27,7 +27,7 @@ tags:
 featured: false
 
 # links:
-# - name: ""
+# - name: "On the Program of AFA (2022) and EFA (2022)"
 #   url: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862627
 url_code: ''
