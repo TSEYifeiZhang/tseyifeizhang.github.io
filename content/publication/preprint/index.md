@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
+  url: 
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
 url_code: '#'
 url_dataset: '#'
