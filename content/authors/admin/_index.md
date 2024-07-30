@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张一飞
+title: Yifei Zhang (张一飞)
 
 # Name pronunciation (optional)
-name_pronunciation: Yifei Zhang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Yifei
