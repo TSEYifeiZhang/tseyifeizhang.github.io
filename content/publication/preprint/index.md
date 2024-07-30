@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-- name:
+- name: On the program of 
   url: 
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
 url_code: '#'
