@@ -1,6 +1,6 @@
 ---
-title: "Working Paper: The Incident-Driven Green Products"
-authors: Yifei Zhang
+title: "Working Paper: Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks"
+authors: Ulrich Hege, Kai Li, Yifei Zhang
 date: "2024-04-07T00:00:00Z"
 doi: ""
 
