@@ -38,7 +38,9 @@ sections:
         Recently, I work on the research topics involving climate-related patents and green products. 
         Please reach out to me for any comments and questions. 😃
 
-        * 1. (New) The Incident-Driven Green Products, [SSRN Link](https://pages.github.com/)
+        * 1. (New) The Incident-Driven Green Products, [SSRN Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691)
+
+
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
