@@ -41,7 +41,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent Publications
+      title: Working Papers and Publications
       text: ""
       filters:
         folders:
@@ -52,7 +52,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent & Upcoming Presenations
       filters:
         folders:
           - event
@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent News about Climate and Green Finance
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
