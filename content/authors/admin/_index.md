@@ -25,7 +25,7 @@ role: Assistant Professor in Finance
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Peking University, HSBC Business School
-    url: https://openai.com/
+    url: https://english.phbs.pku.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
