@@ -50,6 +50,7 @@ Interests:
   - Corporate Finance
   - Climate Finance (Green Finance)
   - Corporate Innovation (Patents and Products)
+  - aa
 
 Education:
   - area: PhD in Economics (2022)
