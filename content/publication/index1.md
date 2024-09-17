@@ -28,7 +28,7 @@ featured: true
 
 links:
 - name: Wharton-WRDS Best Empirical Finance Paper Award at WFA (2024)
-  url:   https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447
+  url:   content/publication/AA.jpg
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447
 url_code: ''
 url_dataset: ''
