@@ -27,7 +27,7 @@ tags:
 featured: true
 
 links:
-- name: Working Paper
+- name: SSRN Link
   url:  https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774
 url_code: ''
