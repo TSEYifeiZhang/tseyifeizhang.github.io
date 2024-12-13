@@ -48,7 +48,7 @@ profiles:
 
 Interests:
   - Climate Finance and Green Finance
-  - Corporate Innovation: Patents and Products
+  - Corporate Innovation (Patents and Products)
   - Economics of AI
 
 Education:
