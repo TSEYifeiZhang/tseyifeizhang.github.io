@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/
 
 Interests:
-  - Corporate Finance
-  - Climate Finance (Green Finance)
-  - Corporate Innovation (Patents and Products)
+  - Climate Finance and Green Finance
+  - Corporate Innovation -- Patents and Products
+  - Economics of AI
 
 Education:
   - area: PhD in Economics (2022)
