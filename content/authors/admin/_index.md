@@ -74,7 +74,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BA in Economics
-    institution: Shanghai Normal University (上海师范大学)
+    institution: Shanghai Normal University 上海师范大学
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
