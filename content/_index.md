@@ -40,12 +40,14 @@ sections:
         <sub>Abstract: We examine whether and how corporate adoption of artificial intelligence (AI) increases the incidence of customer privacy violations. Using a series of large language model (LLM) experiments, we demonstrate that leading AI models systematically violate consumer privacy across data collection, processing, and dissemination tasks—even when explicitly instructed not to. These violations are economically motivated and become more severe when the benefits of violations increase or the penalties decline. In firm-level data, we find that AI adoption leads to more privacy violations and GDPR fines, particularly among firms with weaker governance or extensive data assets. Although these incidents reduce firm value, the losses are modest relative to the overall gains from AI adoption. Finally, we show that both model fine-tuning and regulatory enforcement can help mitigate AI-induced privacy risks. </sub> 
 
         2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
-
         <sub> -- Western Finance Association (WFA): Wharton School-WRDS Award for the Best Empirical Finance Paper </sub>
-    
-        <sub> -- Paris December Meeting Best Paper Award </sub>
 
-        <sub> -- WFA 2024, EFA 2024, FIRS 2025 </sub>
+        3. [Climate Patents and Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE) and Sébastien Pouget (TSE)
+
+        4. [Incident-Driven Green Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691), (Solo Paper)
+
+
+
 
     design:
       columns: '1'
