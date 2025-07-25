@@ -41,6 +41,10 @@ sections:
 
         2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
 
+        -- Western Finance Association (WFA): Wharton School-WRDS Award for the Best Empirical Finance Paper
+        -- Paris December Meeting Best Paper Award
+        -- WFA 2024, EFA 2024, FIRS 2025, HEC-HKUST Workshop 2023
+
     design:
       columns: '1'
   - block: collection
