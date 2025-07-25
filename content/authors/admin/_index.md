@@ -53,8 +53,8 @@ interests:
   - Economics of AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Economics
+    institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,8 +62,19 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master in Economics
+    institution: Toulouse School of Economics
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - area: Master in Economics
+    institution: State University of New York, Stony Brook
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
