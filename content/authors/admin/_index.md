@@ -24,7 +24,7 @@ role: Assistant Professor in Finance
 
 # Organizations/Affiliations to display in Biography blox
 organizations: 
-  - name: Peking University HSBC Business School
+  - name: Peking University, HSBC Business School
     url: 
 
 # Social network links
