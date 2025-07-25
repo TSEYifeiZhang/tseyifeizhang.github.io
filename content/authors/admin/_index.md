@@ -53,8 +53,8 @@ interests:
   - Economics of AI
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Economics
+    institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,8 +62,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA in Economics
+    institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -73,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA in Economics
+    institution: Shanghai Normal University (上海师范大学)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
