@@ -46,6 +46,9 @@ sections:
 
         4. [Incident-Driven Green Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691), (Solo Paper)
 
+        5. [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE)
+
+
 
 
 
