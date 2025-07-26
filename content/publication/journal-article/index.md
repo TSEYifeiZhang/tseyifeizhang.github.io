@@ -2,7 +2,7 @@
 title: "An example journal article"
 authors:
 - admin
-- 
+- (Solo Paper)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
