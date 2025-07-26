@@ -35,11 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        1. Artificial Intelligence and Corporate Privacy Violations (draft comming soon), with Kai Li (Peking University), Yifu Liu (Peking University), and Yiran Zhang (Fudan University)
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
+        <sub> -- Western Finance Association (WFA) Wharton School-WRDS Award for the Best Empirical Finance Paper </sub>
+
+        3. [Climate Patents and Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE) and Sébastien Pouget (TSE)
+
+        4. [Incident-Driven Green Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691), (Solo Paper)
+
+        5. [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE)
     design:
       columns: '1'
   - block: collection
