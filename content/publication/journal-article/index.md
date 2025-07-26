@@ -16,13 +16,20 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Financial and Quantitative Analysis, Vol. 60, No. 1"
+publication: "*Journal of Financial and Quantitative Analysis, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This study examines whether and how corporate venture capital (CVC) spurs changes in firm
+scope. Using two text-based measures of firm scope, I provide evidence that CVC invest-
+ments are strongly correlated with subsequent changes in firm scope among CVC parent
+firms, including seeding emerging businesses and creating new segments or divisions.
+Further evidence is consistent with an experimentation view, with more promising ventures
+having a stronger strategic impact on the scope changes of parent firms. Moreover, the study
+finds that post-CVC scope changes are primarily built internally and rarely involve killer
+acquisitions. These changes create value for CVC parents.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
