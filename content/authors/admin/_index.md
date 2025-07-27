@@ -73,8 +73,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BA in Economics
-    institution: Shanghai Normal University 上海师范大学
+  - area: MA in Economics
+    institution: State University of New York at Stony Brook
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -83,18 +83,7 @@ education:
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BA in Economics
-    institution: Shanghai Normal University 上海师范大学
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit    
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit   
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
