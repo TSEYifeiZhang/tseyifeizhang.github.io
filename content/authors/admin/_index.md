@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    - area: MA in Economics
+  - area: MA in Economics
     institution: Toulouse School of Economics
     date_start: 2016-01-01
     date_end: 2020-12-31
