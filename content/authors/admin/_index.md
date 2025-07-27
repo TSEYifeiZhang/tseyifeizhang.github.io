@@ -74,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MA in Economics
-    institution: Toulouse School of Economics
-    date_start: 2016-01-01
+    institution: State University of New York at Stony Brook
+    date_start: 2014-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
