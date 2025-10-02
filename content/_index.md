@@ -39,13 +39,12 @@ sections:
 
         2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
         <sub> -- Western Finance Association (WFA) Wharton School-WRDS Award for the Best Empirical Finance Paper </sub>
-        <sub> -- Paris December Meeting Best Paper Award </sub>
 
         3. [Climate Patents and Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE) and Sébastien Pouget (TSE), invited for R&R.
 
         4. [Incident-Driven Green Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691), (Solo Paper).
 
-        5. [Corporate Venture Capital and Firm Scope]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862627], (Solo Paper), Published in the Journal of Financial and Quantitative Analyses (JFQA), Vol. 60, No. 1, Feb. 2025, pp. 336–373
+        5. [Corporate Venture Capital and Firm Scope](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862627), (Solo Paper), Published in the Journal of Financial and Quantitative Analyses (JFQA), Vol. 60, No. 1, Feb. 2025, pp. 336–373
 
         6. [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE)
     design:
