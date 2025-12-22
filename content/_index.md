@@ -40,7 +40,7 @@ sections:
         2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
         <sub> -- Western Finance Association (WFA) Wharton School-WRDS Award for the Best Empirical Finance Paper </sub>
 
-        3. [Climate Patents and Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE) and Sébastien Pouget (TSE), invited for R&R.
+        3. [Climate Patents and Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774), with Ulrich Hege (TSE) and Sébastien Pouget (TSE), invited for R&R.
 
         4. [Incident-Driven Green Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691), (Solo Paper).
 
