@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: 
+      text: |-
         1. Artificial Intelligence and Privacy Violations, with Kai Li (Peking University), Yifu Liu (Peking University), and Yiran Zhang (Fudan University)
 
         2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
