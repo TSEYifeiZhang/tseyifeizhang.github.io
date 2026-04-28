@@ -48,7 +48,7 @@ sections:
 
         6. [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE)
     design:
-      columns: '1'
+      columns: '2'
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
