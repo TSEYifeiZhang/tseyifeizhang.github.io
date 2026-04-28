@@ -48,7 +48,8 @@ sections:
 
         6. [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE)
     design:
-      columns: '2'
+      columns: '1'
+      css_style: "max-width: 100%; width: 100%;" # This forces the block to expand
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
