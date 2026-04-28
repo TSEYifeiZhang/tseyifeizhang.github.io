@@ -31,22 +31,14 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        1. Artificial Intelligence and Privacy Violations, with Kai Li (Peking University), Yifu Liu (Peking University), and Yiran Zhang (Fudan University)
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        2. [Climate Innovation and Carbon Emissions: Evidence from Supply Chain Networks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4557447), with Ulrich Hege (TSE) and Kai Li (Peking University)
-        <sub> -- Western Finance Association (WFA) Wharton School-WRDS Award for the Best Empirical Finance Paper </sub>
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
-        3. [Climate Patents and Financial Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4170774), with Ulrich Hege (TSE) and Sébastien Pouget (TSE), invited for Revise and Resubmit.
-
-        4. [Incident-Driven Green Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691), (Solo Paper), invited for Revise and Resubmit.
-
-        5. [Corporate Venture Capital and Firm Scope](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862627), (Solo Paper), Published in the Journal of Financial and Quantitative Analysis (JFQA), Vol. 60, No. 1, Feb. 2025, pp. 336–373
-
-        6. [Activism Pressure and The Market for Corporate Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3305260), with Ulrich Hege (TSE)
+        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: cta-card
