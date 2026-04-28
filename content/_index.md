@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collections
+  - block: collection
     content:
       title: '📚 My Research'
       subtitle: ''
