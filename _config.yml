@@ -1,0 +1,21 @@
+title: Yifei Zhang - Academic Homepage
+url: "https://tseyifeizhang.github.io"
+baseurl: ""
+
+# Markdown & Permalinks
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+collections:
+  publications:
+    output: false
+  news:
+    output: false
+  showcase:
+    output: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE

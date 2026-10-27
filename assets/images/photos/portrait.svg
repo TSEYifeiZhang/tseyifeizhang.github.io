@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="440" viewBox="0 0 370 440">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="370" height="440" rx="20" fill="url(#bg)"/>
+  <circle cx="185" cy="155" r="58" fill="#334155"/>
+  <path d="M95 340 C95 265, 275 265, 275 340" fill="#334155"/>
+  <text x="185" y="385" font-family="Plus Jakarta Sans, sans-serif" font-size="22" font-weight="bold" fill="#f8fafc" text-anchor="middle">Yifei Zhang (张一飞)</text>
+  <text x="185" y="410" font-family="Lato, sans-serif" font-size="13" fill="#94a3b8" text-anchor="middle">Replace with assets/images/photos/portrait.jpg</text>
+</svg>

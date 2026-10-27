@@ -1,0 +1,13 @@
+---
+layout: default
+title : Homepage
+navbar_title: Home
+---
+{% include widgets/profile_card.html %}
+
+{% include widgets/news_card.html %}
+
+{% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+{% include widgets/publication_card.html publications=pubs title="Publications & Working Papers" %}
+
+{% include widgets/experience_card.html %}

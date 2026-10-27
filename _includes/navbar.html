@@ -1,0 +1,19 @@
+<nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom sticky-top shadow-xs">
+    <div class="container-lg">
+        <a class="navbar-brand font-weight-bold" href="{{ '/' | relative_url }}">
+            {{ site.data.profile.navbar_name }}
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                {% for item in site.data.navigation.pages %}
+                <li class="nav-item {% if item.name == page.navbar_title %}active font-weight-bold{% endif %}">
+                    <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,20 @@
+---
+layout: default
+title : Publications
+navbar_title: Publications
+---
+{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+
+<div class="row">
+    <div class="col-12">
+        <div class="my-3 p-4 bg-white shadow-sm rounded-lg">
+            <h4 class="border-bottom border-gray pb-2 mb-3 font-weight-bold">Publications & Working Papers</h4>
+            {% for year in pubs_by_year %}
+            <h5 class="mt-4 mb-2 text-primary font-weight-bold">{{ year.name }}</h5>
+            {% for item in year.items %}
+                {% include widgets/publication_item.html item=item %}
+            {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

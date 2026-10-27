@@ -1,0 +1,113 @@
+primary_name: "Yifei Zhang"
+secondary_name: "张一飞"
+navbar_name: "Yifei Zhang"
+
+positions:
+  - logo: /assets/images/badges/pku_badge.svg
+    name: Assistant Professor in Finance, Peking University HSBC Business School (PHBS)
+
+email: "tseyifeizhang@phbs.pku.edu.cn"
+alt_email: "yifei.zhang@tse-fr.eu"
+cv_link: "/files/Yifei_Zhang.pdf"
+gscholar: "b4rGdr4AAAAJ"
+ssrn: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2930000"
+github: "tseyifeizhang"
+orcid: "0000-0002-0000-0000"
+office: "Room 635, PHBS Building, University Town, Nanshan District, Shenzhen, China"
+phone: "+86 0755-2603-2549"
+
+show_portrait: true
+portrait_url: /assets/images/photos/portrait.svg
+portrait_caption: >-
+  Assistant Professor in Finance at Peking University HSBC Business School
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am an Assistant Professor in Finance at <a href="https://english.phbs.pku.edu.cn/" target="_blank">Peking University HSBC Business School (北京大学汇丰商学院)</a>. I obtained my Ph.D. in Economics from <a href="https://www.tse-fr.eu/" target="_blank">Toulouse School of Economics (TSE)</a> in 2022, where my dissertation committee included Ulrich Hege, Milo Bianchi, Florian Ederer, Merih Sevilir, and Edith Ginglinger. During my doctoral studies, I was a Visiting Ph.D. Student at the <a href="https://som.yale.edu/" target="_blank">Yale School of Management</a> in 2019.
+  </p>
+  <p>
+    My research interests lie in <strong>Corporate Finance and Governance</strong>, <strong>Innovation and Patents</strong>, <strong>Climate and ESG Finance</strong>, <strong>Entrepreneurial Finance / Venture Capital</strong>, and the <strong>Economics of AI</strong>. At PHBS, I teach Master-level courses in <em>Climate and ESG Finance</em> and <em>Venture Capital</em>.
+  </p>
+
+research_interests:
+  - Corporate Finance & Governance
+  - Innovation & Patents
+  - Climate & ESG Finance
+  - Venture Capital & Firm Scope
+  - Economics of AI
+
+experience:
+  - name: Peking University, HSBC Business School
+    logo: /assets/images/badges/pku_badge.svg
+    position: Assistant Professor in Finance
+    date: Sep. 2022 - Present
+    location: Shenzhen, China
+
+education:
+  - name: Toulouse School of Economics (TSE)
+    logo: /assets/images/badges/tse_badge.svg
+    position: >-
+      Ph.D. in Economics<br/>
+      <span class="text-muted small">Committee: Ulrich Hege, Milo Bianchi, Florian Ederer, Merih Sevilir, Edith Ginglinger</span>
+    date: Sep. 2016 - Jun. 2022
+    location: Toulouse, France
+  - name: Yale University, School of Management (SOM)
+    logo: /assets/images/badges/yale_badge.svg
+    position: Visiting Ph.D. Student
+    date: Sep. 2019 - Jan. 2020
+    location: New Haven, CT, USA
+  - name: Toulouse School of Economics (TSE)
+    logo: /assets/images/badges/tse_badge.svg
+    position: M.A. in Economics
+    date: Sep. 2015 - Jun. 2016
+    location: Toulouse, France
+  - name: State University of New York at Stony Brook
+    logo: /assets/images/badges/sbu_badge.svg
+    position: M.A. in Economics
+    date: Sep. 2012 - Jun. 2014
+    location: Stony Brook, NY, USA
+  - name: Shanghai Normal University (上海师范大学)
+    logo: /assets/images/badges/shnu_badge.svg
+    position: B.A. in Economics
+    date: Sep. 2008 - Jul. 2012
+    location: Shanghai, China
+
+awards:
+  - name: Wharton School-WRDS Award for the Best Empirical Finance Paper (WFA)
+    date: 2024
+  - name: Best Paper Award, Paris December Finance Meeting
+    date: 2024
+  - name: TSE Job Market Scholarship, Toulouse School of Economics
+    date: 2021
+  - name: AFA PhD Student Travel Grant (San Diego)
+    date: 2020
+  - name: EUR Mobility Grant (Visiting Yale SOM), Toulouse School of Economics
+    date: 2019
+  - name: The Marty Weinbaum Award for Academic Achievement, SUNY Stony Brook
+    date: 2014
+  - name: Scholarship for Academic Excellence, Shanghai Normal University
+    date: 2010 - 2012
+
+teaching:
+  - course: Climate and ESG Finance
+    level: Master-Level
+    institution: Peking University HSBC Business School
+  - course: Venture Capital
+    level: Master-Level
+    institution: Peking University HSBC Business School
+
+service:
+  referee:
+    - Review of Financial Studies (RFS)
+  presentations:
+    - year: "2024 - 2025"
+      venues: "FIRS (2025), UNSW, Western Finance Association (WFA), European Finance Association (EFA), CICF, Shanghai Jiao Tong University, The 2nd HEC-HKUST Sustainable and Impact Finance Workshop"
+    - year: "2023"
+      venues: "Harbin Institute of Technology (Shenzhen), CUHKSZ-PHBS Economics and Finance Workshop, HEC-HKUST Sustainable and Impact Finance Workshop, ShanghaiTech University"
+    - year: "2022"
+      venues: "SHUFE, Peking University (HSBC Business School), American Finance Association (AFA), Midwest Finance Association (MFA), European Finance Association (EFA), Tsinghua PBCSF Five-Star Workshop"
+    - year: "2021"
+      venues: "WINDS (Wharton), Eastern Finance Association, European Finance Association (EFA), WEFI Student Workshop, Hong Kong Polytechnic University, Monash University"
+    - year: "2020"
+      venues: "Northern Finance Association (NFA), Paris Dauphine Finance Workshop, Econometric Society European Winter Meeting"
