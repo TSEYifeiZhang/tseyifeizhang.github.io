@@ -2,10 +2,10 @@
 title: "Climate Patents and Financial Markets"
 date: 2024-12-01 00:00:00 +0800
 selected: true
-pub: "Working Paper (Revise & Resubmit)"
+pub: "Working Paper (2nd Round Minor Revision JFQA)"
 pub_pre: ""
-pub_post: " (CICF 2024)"
-pub_last: ' <span class="badge badge-pill badge-publication badge-primary">Revise & Resubmit</span>'
+pub_post: ""
+pub_last: ' <span class="badge badge-pill badge-publication badge-primary">2nd Round Minor Revision JFQA</span>'
 pub_date: "2024"
 category: "working_paper"
 abstract: >-

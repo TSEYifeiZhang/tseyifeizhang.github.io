@@ -1,11 +1,11 @@
 ---
-title: "The Incident-Driven Green Products"
+title: "Incident-Driven Green Products"
 date: 2024-06-01 00:00:00 +0800
 selected: true
-pub: "Working Paper (Revise & Resubmit)"
+pub: "Working Paper (Revise & Resubmit JFQA)"
 pub_pre: ""
 pub_post: ""
-pub_last: ' <span class="badge badge-pill badge-publication badge-primary">Revise & Resubmit</span> <span class="badge badge-pill badge-publication badge-info">Solo Paper</span>'
+pub_last: ' <span class="badge badge-pill badge-publication badge-primary">Revise & Resubmit JFQA</span> <span class="badge badge-pill badge-publication badge-info">Solo Paper</span>'
 pub_date: "2024"
 category: "working_paper"
 abstract: >-
