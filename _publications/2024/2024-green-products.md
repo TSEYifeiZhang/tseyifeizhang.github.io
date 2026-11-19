@@ -9,10 +9,10 @@ pub_last: ' <span class="badge badge-pill badge-publication badge-primary">Revis
 pub_date: "2024"
 category: "working_paper"
 abstract: >-
-  We employ the ChatGPT model to identify green products in the US product markets. Approximately 3.7% of US product announcements from 2002 to 2022 qualify as green products. Using a stacked Difference-in-Differences approach, we find that firms involved in severe environmental incidents launch 40% more green products within two years following the incidents. These incident-driven green products are notably novel, supported by high-quality green patents, and result in substantial environmental improvements for both producers and consumers.
+  This paper investigates whether corporate green products represent genuine environmental progress or strategic greenwashing. To overcome identification challenges, we develop a novel textual measure of green products using 265,963 product announcements and exploit severe environmental incidents as exogenous shocks to corporate reputation. Using a stacked difference-in-differences design, we find that implicated firms rapidly launch 25\% more green products. Crucially, these incident-driven green products are genuine: they generate persistent reductions in direct emissions and pollution for both the producing firms and their downstream supply-chain customers. In stark contrast, routine green products launched absent a severe shock yield no measurable environmental improvements.
 cover: /assets/images/covers/green_products.svg
 authors:
   - Yifei Zhang
 links:
-  PHBS Working Paper: https://english.phbs.pku.edu.cn/Faculty___Research/Working_Papers/14.htm
+  SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4908691
 ---
