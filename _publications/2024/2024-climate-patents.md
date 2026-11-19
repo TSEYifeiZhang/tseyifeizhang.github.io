@@ -10,7 +10,7 @@ pub_date: "2024"
 category: "working_paper"
 abstract: >-
   We study the financial markets reaction to climate patents announcements. Exploiting quasi-random variations in patent examiner leniency to allow for causal interpretations, we find that firms with fortuitous climate patent grants benefit from positive medium-run abnormal stock returns and a lower cost of capital compared to similarly innovative but unlucky firms.
-cover: /assets/images/covers/climate_patents.svg
+cover: /assets/images/covers/climate_patents_1.png
 authors:
   - Ulrich Hege
   - Sébastien Pouget
