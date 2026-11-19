@@ -10,7 +10,7 @@ pub_date: "2025"
 category: "published"
 abstract: >-
   This study examines whether and how corporate venture capital (CVC) spurs changes in firm scope. Using two text-based measures of firm scope, I provide evidence that CVC investments are strongly correlated with subsequent changes in firm scope among CVC parent firms, including seeding emerging businesses and creating new segments or divisions. Further evidence is consistent with an experimentation view, with more promising ventures having a stronger strategic impact on the scope changes of parent firms. Moreover, the study finds that post-CVC scope changes are primarily built internally and rarely involve killer acquisitions. These changes create value for CVC parents.
-cover: /assets/images/covers/cvc_scope.svg
+cover: /assets/images/covers/cvc.png
 authors:
   - Yifei Zhang
 links:
