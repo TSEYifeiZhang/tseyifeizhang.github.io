@@ -10,7 +10,7 @@ pub_date: "2025"
 category: "working_paper"
 abstract: >-
   We investigate how economic incentives drive systematic AI privacy violations, analyzing how data-intensive AI deployment shapes firm-level privacy risks, strategic compliance, and governance outcomes.
-cover: /assets/images/covers/ai_privacy.svg
+cover: /assets/images/covers/privacy.png
 authors:
   - Kai Li
   - Yifu Liu
