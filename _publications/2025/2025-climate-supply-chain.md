@@ -10,7 +10,7 @@ pub_date: "2025"
 category: "working_paper"
 abstract: >-
   We study the effect of climate-related innovation on carbon emissions by analyzing supply chain networks. We find that climate innovation reduces carbon emissions at customer firms, driven by product innovations. The effect is economically significant, dominated by the most emission-intensive customer firms, gradually increases over a five-year horizon, and is significant for Scope 1 and Scope 2 emissions. Customers exhibit a strong preference for suppliers with new climate patents, and these new customers subsequently reduce their emissions.
-cover: /assets/images/covers/climate_supply_chain.svg
+cover: /assets/images/covers/climate_patents_2.png
 authors:
   - Ulrich Hege
   - Kai Li
